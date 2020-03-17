@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 #
-.photos
 photos/*
+!photos/.gitkeep
 .idea
 idea/*

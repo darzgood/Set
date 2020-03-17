@@ -1,0 +1,16 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" height="400px" width="200px" >
+    ###PATTERN###
+    
+    
+<path d="
+    M 10 110
+    c0,-125 175,-125 175,0
+    v180
+    c0, 125 -175, 125 -175,0
+    z" 
+    stroke="crimson" stroke-width="8" fill="none"/>
+
+
+    
+</svg>
